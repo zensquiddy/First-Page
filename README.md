@@ -1,2 +1,2 @@
 # test_webpage
-https://zensquiddy.io/First-Page
+https://zensquiddy.github.io/First-Page
